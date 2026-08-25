@@ -1,11 +1,11 @@
-Part C answers:
-Number of classes: 1
+Part C answers:<br>
+Number of classes: 1<br>
 Number of objects: 2
 
 
-Part D Answers:
-$account1->balance;
-This does not work because $balance is private.
+Part D Answers:<br>
+$account1->balance;<br>
+This does not work because $balance is private.<br>
 A private property can only be accessed inside the same class.
 
 
